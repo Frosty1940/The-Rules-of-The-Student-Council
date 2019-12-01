@@ -4,6 +4,8 @@
 
 총학생회 회칙 전면 개정 전후비교 (2018년 11월 20일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/2678280ea12510180c9cf37fc109aa26cc9f6e09
 
+동아리연합회 회칙 전면 개정 전후비교 (2019년 9월 24일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/bae7c826a3cade560cddc1eff0fce51883376068
+
 ## 기구
 
 1. [대의원총회 회칙](대의원총회.md)
