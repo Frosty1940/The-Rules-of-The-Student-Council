@@ -2,11 +2,11 @@
 마크다운 특성 상, 각 조는 명칭이 제대로 기재되어 있으나, 각 항 및 호는 번호. 형태로 기재되어 있습니다.
 학생자치회칙은 장, 조, 항, 호 순서로 작성되었음을 사전에 고지합니다.
 
-총학생회 회칙 전면 개정 전후비교 (2018년 11월 20일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/2678280ea12510180c9cf37fc109aa26cc9f6e09
+총학생회 회칙 전부개정 전후비교 (2018년 11월 20일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/2678280ea12510180c9cf37fc109aa26cc9f6e09
 
-대의원총회 회칙 전면 개정 전후비교 (2018년 11월 20일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/0b5929f45ebbae33428dc8dc089f3df394905f02
+대의원총회 회칙 전부개정 전후비교 (2018년 11월 20일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/0b5929f45ebbae33428dc8dc089f3df394905f02
 
-동아리연합회 회칙 전면 개정 전후비교 (2019년 9월 24일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/bae7c826a3cade560cddc1eff0fce51883376068
+동아리연합회 회칙 전부개정 전후비교 (2019년 9월 24일):<br>https://github.com/Chongshin-University-Representative/The-Rules-of-The-Student-Council/commit/bae7c826a3cade560cddc1eff0fce51883376068
 
 ## 기구
 
